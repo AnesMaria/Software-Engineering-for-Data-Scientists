@@ -1,7 +1,7 @@
 
 # Software Engineering for Data Scientists 
 
-This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!
+This repository contains the starter code for the Software Engineering for Data Scientists final project. It includes the main project structure and files needed to complete the assignment. For more details about how the repository is organized and how each part should be used, refer to the course materials and project instructions.  
 
 ### Repository Structure
 ```
