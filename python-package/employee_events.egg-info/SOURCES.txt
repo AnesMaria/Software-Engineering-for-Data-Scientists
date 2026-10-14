@@ -1,0 +1,13 @@
+setup.py
+employee_events/__init__.py
+employee_events/employee.py
+employee_events/employee_events.db
+employee_events/query_base.py
+employee_events/requirements.txt
+employee_events/sql_execution.py
+employee_events/team.py
+employee_events.egg-info/PKG-INFO
+employee_events.egg-info/SOURCES.txt
+employee_events.egg-info/dependency_links.txt
+employee_events.egg-info/requires.txt
+employee_events.egg-info/top_level.txt
